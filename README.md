@@ -1,0 +1,4 @@
+- Ambil Curl Sign dan Shake dari Network MiniApp
+- Convert Curl Bash to Fetch Javascript
+- npm i
+- Run bot
